@@ -1,0 +1,167 @@
+html,body{
+    margin:0;
+    padding:0;
+    border:0;
+    background-color: black;
+}
+
+.intro{
+    background-image: url('images/wallpapaer.jpg');
+    background-size: cover;
+    height: 600px;
+}
+
+
+.menu-bar{
+    background-color: black;
+    color: whitesmoke;
+    
+}
+
+.background-img{
+    width: 100%;
+}
+
+.logo{
+    padding: 10px 30px;
+}
+
+img{
+    width: 150px;    
+}
+
+.menu{
+    position: absolute;
+    top: 25px;
+    left: 350px;
+}
+
+.menu-options{
+    display: inline;
+    padding-left: 70px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+marquee{
+    color: aliceblue;
+    direction: left;
+    width: 100%;
+    height: 22px;
+    font-size: 20px;
+}
+
+.article-news{
+    color: antiquewhite;
+    border-bottom: 1px solid white;
+    width: 320px;
+    font-size: 50px;
+    padding: 30px;
+    margin-top: 50px;
+    margin-left: 340px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.about-us-news{
+    color: antiquewhite;
+    border-bottom: 1px solid white;
+    width: 260px;
+    font-size: 50px;
+    padding: 30px;
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-bottom: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.books-news{
+    color: antiquewhite;
+    border-bottom: 1px solid white;
+    width: 550px;
+    font-size: 50px;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 350px;
+    margin-bottom: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.movies-news{
+    color: antiquewhite;
+    border-bottom: 1px solid white;
+    width: 540px;
+    font-size: 50px;
+    padding: 25px;
+    margin-top: 50px;
+    margin-left: 350px;
+    margin-bottom: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.cast-news{
+    color: antiquewhite;
+    border-bottom: 1px solid white;
+    width: 530px;
+    font-size: 50px;
+    padding: 25px;
+    margin-top: 50px;
+    margin-left: 350px;
+    margin-bottom: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+table{
+    color: aliceblue;
+    width: 90%;
+    margin: 30px;
+}
+
+td{
+    width: 30%;
+    padding-left: 60px;
+    margin-bottom: 20px;
+}
+
+.article-img{
+    width: 100%;
+}
+
+.about-us-desc{
+    color: aliceblue;
+    width: 80%;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.books-headline{
+    color: aliceblue;
+    margin-left: 40px;
+    width: 90%;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+
+.books{
+    color: aliceblue;
+    width: 90%;
+    margin: 50px;
+}
+
+h5{
+    padding-left: 40px;
+}
+
+h4{
+    padding-left: 20px;   
+}
+
+.book-img{
+    padding-left: 40px;
+    margin-top: 20px;
+}
+
+.movie-img{
+    padding-left: 40px;
+    margin-top: 20px;
+}
